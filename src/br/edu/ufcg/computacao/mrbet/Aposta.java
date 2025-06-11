@@ -2,8 +2,10 @@ package br.edu.ufcg.computacao.mrbet;
 
 /**
  * Classe que cria o tipo Aposta. Ela contém os atributos posicaoTabela,valorApostado,equipe e
+ * 
+ * 
  * torneio.
- * @author Isaque Esdras Rocha - Matrícula: 123110685.
+ * @author Isaque Esdras Rocha - Matrícula: 123110685...
  */
 
 public class Aposta {

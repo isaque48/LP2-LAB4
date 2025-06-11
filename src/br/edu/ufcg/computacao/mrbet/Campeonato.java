@@ -5,7 +5,7 @@ import java.util.Objects;
 
 /**
  * Classe que cria o tipo Campeonato. Ela contém os atributos nome, nParticipantesFinal, nParticipantesAtual e timesParticipantes.
- * @author Isaque Esdras Rocha - Matricula: 123110685.
+ * @author Isaque Esdras Rocha - Matricula: 123110685. Teste
  */
 
 public class Campeonato {
